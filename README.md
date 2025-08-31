@@ -1,4 +1,5 @@
 # Panoptiscope
+Watch a demo performance: https://www.youtube.com/watch?v=GjrRu1Sf5oc
 This project is a live sound composition that reimagines the experience of surveillance through listening. At its core are recordings of surveillance messages, fragments of speech that normally carry urgency and authority, transformed in performance into slowly evolving soundscapes.
 
 The piece is guided by both human and machine input: a microphone captures voice and environment, spectral freezing and feedback create textural shifts, and eye movement and blinking direct sound spatialization, panning, and reverberation. These gestures gradually shape a sonic environment that oscillates between tension and meditation: on one hand, the unsettling reminders of being watched; on the other, the immersive, almost hypnotic quality of long feedback tails and resonant textures.
