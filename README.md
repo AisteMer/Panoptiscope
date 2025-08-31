@@ -1,8 +1,10 @@
 # Panoptiscope
-An Interactive System for Exploring Surveillance Through Sound. Built with Max/MSP, it explores how digital and acoustic monitoring technologies operate and how individuals may unknowingly be subject to observation. The project blends technical implementation with critical reflection on privacy, surveillance, and information control.
+This project is a live sound composition that reimagines the experience of surveillance through listening. At its core are recordings of surveillance messages, fragments of speech that normally carry urgency and authority, transformed in performance into slowly evolving soundscapes.
 
-## Overview
-This project investigates the aesthetics and structure of surveillance by transforming metadata (such as coordinates or system logs) into real-time sound output and visual feedback. It serves both as a conceptual exploration and a functional prototype of how data can be interpreted and represented in alternative modalities.
+The piece is guided by both human and machine input: a microphone captures voice and environment, spectral freezing and feedback create textural shifts, and eye movement and blinking direct sound spatialization, panning, and reverberation. These gestures gradually shape a sonic environment that oscillates between tension and meditation: on one hand, the unsettling reminders of being watched; on the other, the immersive, almost hypnotic quality of long feedback tails and resonant textures.
+
+## Concept
+Rather than treating surveillance purely as a political or technical system, this project approaches it as an aesthetic material. The sounds of monitoring and control are reconfigured into an artistic practice of live manipulation, asking what happens when mechanisms of oversight are translated into sonic form. The work explores the paradox between vigilance and drift, alarm and calm, alertness and trance.
 
 ## Tech stack
 - **Max/MSP (Cycling '74):** Visual programming for audio synthesis and control logic
@@ -13,7 +15,7 @@ This project investigates the aesthetics and structure of surveillance by transf
 ## Features
 
 - Real-time sound processing based on internal or external input
-- Visual feedback in the style of terminal interfaces or surveillance UIs
-- Modular Max patches for easy expansion or performance use
-- Prototype-ready for future integration with sensors or live input (e.g. microphones, webcams, eye trackers)
+- Live interaction through microphone, motion, and eye-tracking input
+- Modular Max patches for performance use
+- Visual feedback drawn from the language of surveillance interfaces
 
